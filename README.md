@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/018c80cc-539b-4920-9c91-54c2cd36ad0c.svg)](https://wakatime.com/@018c80cc-539b-4920-9c91-54c2cd36ad0c)
 <!--
 **IsaacRK/IsaacRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
